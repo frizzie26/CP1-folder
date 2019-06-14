@@ -1,0 +1,23 @@
+Last login: Tue Nov 27 13:29:18 on console
+I46221P64128131:~ faridah$ cd javac DeclareVariables.java
+-bash: cd: javac: No such file or directory
+I46221P64128131:~ faridah$ ls
+Applications	Documents	Library		Music		Public
+Desktop		Downloads	Movies		Pictures
+I46221P64128131:~ faridah$ cd Desktop
+I46221P64128131:Desktop faridah$ ls
+CP1			NamePrinter.java.rtf
+I46221P64128131:Desktop faridah$ cd CP1
+I46221P64128131:CP1 faridah$ ls
+DataTypes.java		Face.java		NamePrinter.java
+DeclareVariables.java	NamePrinter copy.java
+Face.class		NamePrinter.class
+I46221P64128131:CP1 faridah$ javac DeclareVariables.java
+I46221P64128131:CP1 faridah$ java DeclareVariables
+Declaring Variables
+The value of i is 100
+The value of num is 50
+The value of s is My first string variable
+I46221P64128131:CP1 faridah$ 
+
+

@@ -1,0 +1,21 @@
+class Main {
+  public static void main(String[] args) {
+    System.out.println(specialEleven(30, true));
+    System.out.println(specialEleven(50, false));
+    System.out.println(in1To10(70, true));
+     
+
+  }
+
+ public boolean in1To10(int n, boolean outsideMode) {
+    // Your code goes here 
+        return n >= 10 && (n >= 1, n <= 10 || outsidemode);
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  }
+}
